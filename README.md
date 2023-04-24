@@ -39,6 +39,7 @@ name_to_save=sprintf('/path/to/data/MVPA_brain_location/%s',folder_name);
   - Run searchlight
   - Save results
   - Create struct with all subjects
+  
 
 2. For all subjects and regions of interest:
   - Stack datasets together
